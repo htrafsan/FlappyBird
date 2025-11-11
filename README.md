@@ -18,5 +18,5 @@ Software Used
 
 Test Machine
 
-    Windows 10 20H2 Home Single Language
-    Ubuntu Focal Fossa 20.04.2 LTS
+    Microsoft Windows 10 20H2 Home Single Language
+    Canonical Ubuntu Focal Fossa 20.04.2 LTS
