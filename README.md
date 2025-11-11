@@ -12,6 +12,7 @@ Software Used
     python programming language 3.9.7
     pygame 2.4.0
     Jetbrains Pycharm Community Edition 2019.2
+    Notepad++ 666
     Microsoft Visual Studio Code 1.50.1
 ---
 
